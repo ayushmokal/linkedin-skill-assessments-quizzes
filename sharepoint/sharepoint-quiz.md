@@ -273,34 +273,16 @@
 - [ ] versioning
 - [ ] audience targeting
 
-#### Q35. A SharePoint site document library has become disorganized with numerous folders. How can you disable folder creation without modifying any permissions?
+#### Q35 A SharePoint site document library has become disorganized with numerous folders. How can you disable folder creation without modifying any permissions?
 
-- [x] :
-
-```
-1. Library Settings
-2. Advanced Settings
-```
-
-- [ ] :
-
-```
-1. Site Settings
-2. Manage Site Features
-```
-
-- [ ] :
-
-```
-1. Library Settings
-2. Audience Targeting Settings
-```
-
-- [ ] :
-
-```
-1. Site Settings
-2. Site App Permissions
+- [x] 1. Site settings
+      2. Site App Permissions
+- [ ] 1. Library settings
+      2. Advance Settings
+- [ ] 1. Site settings
+      2. Manage Site Features
+- [ ] 1. Library settings
+      2. Audience Targeting Settings 
 ```
 
 #### Q36. SharePoint lists and libraries have similarities. What differentiates a library from a list?
@@ -449,3 +431,25 @@
 - [ ] By Groups
 - [ ] By site levels 
 - [ ] By sites
+
+#### Q57 You are creating a new subsite in a SharePoint site. The subsite must have the same permissions as the main site. How do you accomplish this?
+
+- [ ] Create the permissions
+- [ ] Use inheritance
+- [ ] Restore nheritance
+- [ ] Copy the permissions
+
+
+#### Q58 While viewing a SharePoint group membership list, what navigation is available to access other SharePoint groups?
+
+- [ ] The Getting Started links are updated with groups for easy access.
+- [ ] The Quick Launch toolbar displays links to other groups for easy access.
+- [ ] The top navigation menu in SharePoint is updated with links to groups for easy access.
+- [ ] The current group membership page provides shortcuts at the bottom of the page to other groups.
+
+#### Q59 What type of service is SharePoint Online?
+
+- [ ] hybrid.
+- [ ] Micro service.
+- [ ] cloud-based
+- [ ] on premises.
